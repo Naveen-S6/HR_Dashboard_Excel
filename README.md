@@ -18,5 +18,16 @@ some major metrics needed are listed below,
 
 ## Dashboard Snapshot 
 
+<p align="center">
+    <img src="https://github.com/Naveen-S6/HR_Dashboard_Excel/blob/main/Excel%20files/ss.png" width="400">
+</p>
 
+[Excel file](https://github.com/Naveen-S6/HR_Dashboard_Excel/blob/main/Excel%20files/HR_Dashboard.xlsx)
 
+## Skills Learnt 
+- Adding dynamic titles 
+- Pivot tables 
+- Using Dax to create measure along with pivot 
+- Adding symbols based on the values for visual representation 
+- Designing dashboard in Excel 
+- Slicers formatting
